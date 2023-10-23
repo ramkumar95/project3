@@ -20,7 +20,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>linux</mainClass>
+              <mainClass>jartest.linux</mainClass>
             </manifest>
           </archive>
         </configuration>
