@@ -6,7 +6,7 @@ import java.io.InputStream;
 public class linux {
 
     public static void main(String[] args) {
-        String host = "127.0.0.1";
+        String host = "172.16.1.25";
         String user = "root";
         String password = "password";
         int port = 22;
